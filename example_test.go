@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/oklog/run"
+	"github.com/achernetsky/run"
 )
 
 func ExampleGroup_Add_basic() {

@@ -1,9 +1,9 @@
 # run
 
-[![GoDoc](https://godoc.org/github.com/oklog/run?status.svg)](https://godoc.org/github.com/oklog/run)
-[![Build Status](https://travis-ci.org/oklog/run.svg?branch=master)](https://travis-ci.org/oklog/run)
-[![Go Report Card](https://goreportcard.com/badge/github.com/oklog/run)](https://goreportcard.com/report/github.com/oklog/run)
-[![Apache 2 licensed](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/oklog/run/master/LICENSE)
+[![GoDoc](https://godoc.org/github.com/achernetsky/run?status.svg)](https://godoc.org/github.com/achernetsky/run)
+[![Build Status](https://travis-ci.org/achernetsky/run.svg?branch=master)](https://travis-ci.org/achernetsky/run)
+[![Go Report Card](https://goreportcard.com/badge/github.com/achernetsky/run)](https://goreportcard.com/report/github.com/achernetsky/run)
+[![Apache 2 licensed](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/achernetsky/run/master/LICENSE)
 
 run.Group is a universal mechanism to manage goroutine lifecycles.
 
