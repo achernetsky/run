@@ -1,7 +1,7 @@
 # run
 
 [![GoDoc](https://godoc.org/github.com/achernetsky/run?status.svg)](https://godoc.org/github.com/achernetsky/run)
-[![Build Status](https://travis-ci.org/achernetsky/run.svg?branch=master)](https://travis-ci.org/achernetsky/run)
+[![Build Status](https://travis-ci.com/achernetsky/run.svg?branch=master)](https://travis-ci.com/achernetsky/run)
 [![Go Report Card](https://goreportcard.com/badge/github.com/achernetsky/run)](https://goreportcard.com/report/github.com/achernetsky/run)
 [![Apache 2 licensed](https://img.shields.io/badge/license-Apache2-blue.svg)](https://raw.githubusercontent.com/achernetsky/run/master/LICENSE)
 
